@@ -1,0 +1,11 @@
+$color-font: #cca;
+$font-default: Arial, Helvetica, sans-serif;
+$font-size: 16px;
+$align: center;
+
+.title {
+   color: $color-font;
+   font-family: $font-default;
+   font-size: $font-size;
+   text-align: $align;
+   }
