@@ -44,3 +44,9 @@ npm install --save-dev @babel/core @babel/preset-env babel-loader
 ```
 npm install --save-dev file-loader
 ```
+
+### Auto Update
+- Ir ao package.json e adicionar a linha
+```
+"watch": "webpack --watch"
+```
